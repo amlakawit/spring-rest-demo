@@ -1,4 +1,4 @@
-package com.gmail.mamlakawit.configuration;
+package com.gmail.mamlakawit.config;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
